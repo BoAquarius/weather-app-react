@@ -9,14 +9,11 @@ export default function App() {
         <Weather />
       </header>
       <footer>
-        This app has been designed and coded by{" "}
-        <a href="/" target="_blank">
-          Bo Aquarius
-        </a>{" "}
-        and it's{" "}
+        This app has been designed and coded by Bo Aquarius and it's{" "}
         <a
           href="https://github.com/BoAquarius/weather-app-react"
           target="_blank"
+          rel="noreferrer"
         >
           open-soured on GitHub
         </a>
