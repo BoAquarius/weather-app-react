@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import Weather from "./Weather";
 
@@ -13,7 +14,7 @@ export default function App() {
         <a
           href="https://github.com/BoAquarius/weather-app-react"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           open-soured on GitHub
         </a>
