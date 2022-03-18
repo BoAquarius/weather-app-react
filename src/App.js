@@ -6,10 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
-          <h1>Bozena's React weather app!</h1>
-          <Weather />
-        </header>
+        <Weather />
         <footer>
           This app has been designed and coded by Bo Aquarius and it's{" "}
           <a
