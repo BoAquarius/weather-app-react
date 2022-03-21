@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Antwerp" />
         <footer>
           This app has been designed and coded by Bo Aquarius and it's{" "}
           <a
