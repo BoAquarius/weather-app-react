@@ -1,9 +1,8 @@
-.Weather img {
-  height: 64px;
-  width: 64px;
+.Weather canvas {
   margin-right: 10px;
-  margin-bottom: 35px;
+  margin-top: 5px;
   position: relative;
+  top: 3px;
 }
 
 .Weather .degrees {
